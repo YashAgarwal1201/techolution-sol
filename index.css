@@ -136,3 +136,12 @@ a {
 		font-size: small;
 	}
 }
+@media screen and (max-width: 300px) {
+	.popup {
+		width: 100%;
+		padding: 8px;
+	}
+	.popup p {
+		margin: 0px 8px;
+	}
+}
