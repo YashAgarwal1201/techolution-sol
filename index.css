@@ -1,5 +1,5 @@
 
-@import url(https://fonts.googleapis.com/css?family=Oswald|Noto+Sans);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -18,11 +18,11 @@ button {
 }
 body {
 	background-color: white;
-	font-family: "Noto Sans", sans-serif;
+	font-family: "Roboto Light", sans-serif;
 	position: relative;
 }
 h1, h2, h3 , h4, h5, h6 {
-	font-family: Oswald, sans-serif;
+	font-family: "Roboto", sans-serif;
 }
 button img {
 	width: 100%;
